@@ -1,4 +1,4 @@
-package com.whd.android.adapters;
+package com.whd.sragenda.adapters;
 
 import com.whd.sragenda.Constants;
 import com.whd.sragenda.R;

@@ -1,6 +1,6 @@
 package com.whd.sragenda;
 
-import com.whd.android.adapters.FPagerAdapter;
+import com.whd.sragenda.adapters.FPagerAdapter;
 import com.whd.sragenda.tasks.GetUpdate;
 
 import android.content.SharedPreferences;

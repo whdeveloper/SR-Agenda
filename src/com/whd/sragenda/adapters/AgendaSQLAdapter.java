@@ -1,4 +1,4 @@
-package com.whd.android.adapters;
+package com.whd.sragenda.adapters;
 
 import android.content.ContentValues;
 import android.content.Context;

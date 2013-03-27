@@ -1,8 +1,8 @@
 package com.whd.sragenda.fragments;
 
-import com.whd.android.adapters.AgendaCursorAdapter;
-import com.whd.android.adapters.AgendaSQLAdapter;
 import com.whd.sragenda.R;
+import com.whd.sragenda.adapters.AgendaCursorAdapter;
+import com.whd.sragenda.adapters.AgendaSQLAdapter;
 
 import android.content.Context;
 import android.database.Cursor;
